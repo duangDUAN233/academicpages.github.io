@@ -22,4 +22,3 @@ For those users that need more advanced functionality, the template also support
 
 Getting started
 ======
-I am a second-year Ph.D. student at Fudan University. My research interests include access control security, multi-agent system security, and zero-trust security. I am broadly interested in designing secure and trustworthy mechanisms for complex computing systems.

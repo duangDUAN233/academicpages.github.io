@@ -18,7 +18,7 @@ Research Interests
 
 Publications
 ======
-**MoPE: A Mixture of Password Experts for Improving Password Guessing**
+**MoPE: A Mixture of Password Experts for Improving Password Guessing**.
 **Mingjian Duan**, Ming Xu, Shenghao Zhang, Weili Han
 *IEEE Symposium on Security and Privacy (S&P), 2026*
 
